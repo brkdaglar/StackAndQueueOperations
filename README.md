@@ -21,7 +21,6 @@ other elements and adds to another list, enqueue backwards in reverselist and en
 sortElements(): In this method; pops or dequeue every element and add a list, sorts and enqueue or push.
 
 distinctElements(): In this method; pops or dequeue every element and add removelist. If poppedValue (dequeueValue) not on the other list , add this list. The size of the list is 
-
 distinct.
 
 To the stackOut.txt and tailOut.txt files status after each operation sent.
