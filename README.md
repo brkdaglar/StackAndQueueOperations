@@ -25,4 +25,4 @@ distinct.
 
 To the stackOut.txt and tailOut.txt files status after each operation sent.
 
-Latest versions of stack and queue sent to stack.txt and tail.txt files
+Latest versions of stack and queue sent to stack.txt and queue.txt files
