@@ -23,6 +23,6 @@ sortElements(): In this method; pops or dequeue every element and add a list, so
 distinctElements(): In this method; pops or dequeue every element and add removelist. If poppedValue (dequeueValue) not on the other list , add this list. The size of the list is 
 distinct.
 
-To the stackOut.txt and tailOut.txt files status after each operation sent.
+To the stackOut.txt and queueOut.txt files status after each operation sent.
 
 Latest versions of stack and queue sent to stack.txt and queue.txt files
